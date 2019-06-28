@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="2">
+
+  <testsuite name="palindromeTests"
+    errors="0" failures="0" hostname="" id="" package="palindromeTests" skipped="0"
+    tests="2" time="1.402" timestamp="">
+  
+    <testcase name="palindrome" classname="palindromeTests" time="0.8920" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Null" classname="palindromeTests" time="0.5100" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

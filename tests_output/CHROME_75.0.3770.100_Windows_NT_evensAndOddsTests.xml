@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="evensAndOddsTests"
+    errors="0" failures="0" hostname="" id="" package="evensAndOddsTests" skipped="0"
+    tests="3" time="1.803" timestamp="">
+  
+    <testcase name="odd test" classname="evensAndOddsTests" time="0.9390" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="even test" classname="evensAndOddsTests" time="0.4310" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="null test" classname="evensAndOddsTests" time="0.4330" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
